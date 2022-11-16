@@ -1,2 +1,6 @@
 .env
-__pycahce__/
+__pycache__/
+.vscode/
+celerybeat-schedule.bak
+celerybeat-schedule.dat
+celerybeat-schedule.dir
